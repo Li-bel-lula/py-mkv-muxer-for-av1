@@ -3,8 +3,9 @@ A Python script for replacing the video stream of non-AV1 (or non-HEVC) mkv vide
 
 Codec priority: AV1 > HEVC
 
-  AV1 mkv file + another non-AV1 mkv file = AV1 + Audios/Subs/Attachments... from the other
-  HEVC mkv file + another non-AV1/HEVC mkv file = HEVC + Audios/Subs/Attachments... from the other
+AV1 mkv file + another non-AV1 mkv file = AV1 + Audios/Subs/Attachments... from the other
+  
+HEVC mkv file + another non-AV1/HEVC mkv file = HEVC + Audios/Subs/Attachments... from the other
   
 Double click to run the script 
 Python and MKVToolNix should be installed and added to PATH
